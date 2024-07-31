@@ -4,7 +4,7 @@ import Transition from "../components/Transition";
 const Home = () => {
     return (
         <div className="container">
-            <video src="../public/assets/video-1.mp4" muted loop autoPlay></video>
+            <video src="/assets/video-1.mp4" muted loop autoPlay></video>
             <h1>Nature</h1>
         </div>
     );

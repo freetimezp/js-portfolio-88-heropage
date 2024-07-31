@@ -3,7 +3,7 @@ import Transition from "../components/Transition";
 const About = () => {
     return (
         <div className="container">
-            <video src="../public/assets/video-2.mp4" muted loop autoPlay></video>
+            <video src="/assets/video-2.mp4" muted loop autoPlay></video>
             <h1>JOURNEY</h1>
         </div>
     )
